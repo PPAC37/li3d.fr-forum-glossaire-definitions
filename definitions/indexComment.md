@@ -57,7 +57,9 @@
 <h3 style="color:#000000;"> Z </h3> 
 <p> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478124" style="font-size:medium;" rel="">Z axis</a><br style="color:#000000;font-size:medium;"> &#xa0; </p> 
 <p style="color:#000000;font-size:medium;"> Total 125 alias pour 67 définitions. </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478055)
+
 ---
 
 ## []
@@ -81,7 +83,9 @@
 <p> E) Copier coller le code dans le message 'sommaire'. </p> 
 <p> &#xa0; </p> 
 <p> <span><img src="https://twemoji.maxcdn.com/2/72x72/1f642.png" class="ipsEmoji" alt="🙂"></span> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478057)
+
 ---
 
 ## []
@@ -292,7 +296,9 @@
  <li> Warping |GIT| #warping-gauchissement </li> 
  <li> Gauchissement |GIT| #warping-gauchissement </li> 
 </ul>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478058)
+
 ---
 
 ## [Bowden]
@@ -302,7 +308,9 @@
 <p> Système d’extrusion dont le moteur n’est pas directement connecté à la buse. La filament est poussé jusqu’à la tête chauffante dans une gaine (souvent en téflon). La tête chauffante est ainsi plus légère et facile à déplacer. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/#comment-478055" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478059)
+
 ---
 
 ## [Bordure, Brim]
@@ -320,7 +328,9 @@
 <p> <a class="ipsAttachLink ipsAttachLink_image" data-fileext="png" data-fileid="134124" href="https://www.lesimprimantes3d.fr/forum/uploads/monthly_2022_01/1227714809_sansbordure.png.d147ebfa84ca91ad8dd1d2e3aed36552.png" rel=""><img alt="1427027554_sansbordure.thumb.png.a4838f1a0f8928e791ebe2b6404a76b8.png" class="ipsImage ipsImage_thumbnailed" data-fileid="134124" data-ratio="75.08" width="999" src="https://www.lesimprimantes3d.fr/forum/uploads/monthly_2022_01/1427027554_sansbordure.thumb.png.a4838f1a0f8928e791ebe2b6404a76b8.png"></a> </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478060)
+
 ---
 
 ## [CAO, Conception Assistée par Ordinateur]
@@ -331,7 +341,9 @@
 <p> Désigne la conception virtuelle à l’aide de logiciels et de techniques de modélisation géométrique. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478061)
+
 ---
 
 ## [CFF, Composite Filament Fabrication]
@@ -342,7 +354,9 @@
 <p> Technologie de fabrication additive à base de matériaux composites employée pour la première fois par l’imprimante 3D <a href="https://www.lesimprimantes3d.fr/comparateur/imprimante3d/markforged/mark-one/" rel="external" title="Imprimante 3D MarkForged Mark One : caractéristiques, prix, tests...">MarkForged Mark One</a>, la première imprimante 3D compatible avec la fibre de carbone. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478062)
+
 ---
 
 ## [CJP, ColorJet Printing]
@@ -353,7 +367,9 @@
 <p> Technologie de fabrication additive basée sur deux composants principaux : la base et le liant. Un rouleau dépose le matériau d’impression (la base) en fines couches sur un plateau. Entre chaque couche des têtes d’impression à jet d’encre déposent le liant qui vient solidifier la base et parfois la colorer. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478063)
+
 ---
 
 ## [CNC, Computer Numerical Command]
@@ -364,7 +380,9 @@
 <p> Machine-outil à commande numérique. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478064)
+
 ---
 
 ## [Crowdfunding]
@@ -374,7 +392,9 @@
 <p> Expression qui désigne la finance (ou collecte) participative visant le financement de divers projets par des acteurs ordinaires (principalement des internautes). Les plateformes les plus connues sont Kickstarter et le Français KissKissBankBank. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478065)
+
 ---
 
 ## [DLP]
@@ -384,7 +404,9 @@
 <p> Technologie de traitement numérique de la lumière par projection d’images contrôlées par&#xa0;une puce et&#xa0;des miroirs orientables. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478066)
+
 ---
 
 ## [DMLS, Direct Metal Laser Sintering]
@@ -395,7 +417,9 @@
 <p> Procédé de frittage de métal permettant une grande précision avec des couches de 20 microns. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478067)
+
 ---
 
 ## [DRM, Digital Rights Management]
@@ -406,7 +430,9 @@
 <p> La gestion numérique des droit a pour objectif de contrôler l’utilisation qui est faite des œuvres numériques via différentes techniques comme le tatouage qui facilite le traçage ou le zonage géographique (comme pour les DVD). </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478068)
+
 ---
 
 ## [Elephant’s foot, Pied d'éléphant]
@@ -415,7 +441,9 @@
  <li> <strong>Pied d'éléphant</strong> </li> 
 </ul>
 <p> Le phénomène de la patte d’éléphant est principalement détecté lors des impressions sans support (<a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478104" rel="">Raft</a>) où les premières couches s’écrasent sur le plateau (pour une bonne adhérence) et sont du coup plus larges que les suivantes. </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478070)
+
 ---
 
 ## [Epaisseur de couche, Layer height]
@@ -426,7 +454,9 @@
 <p> C'est la hauteur de chaque couche de filament déposée pour créer l’objet. Elle définit la finesse de l’impression, la hauteur minimum dépend de la qualité de l’imprimante 3D. Une épaisseur de couche différente sur la même imprimante, pour créer le même objet, donnera un résultat à l’aspect différent. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478071)
+
 ---
 
 ## [Extrusion]
@@ -436,7 +466,9 @@
 <p> Dans le domaine de l’impression 3D, l’extrusion désigne la création d’une forme tridimensionnelle à partir d’un objet plan. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478072)
+
 ---
 
 ## [FabLab, Fabrication Laboratory]
@@ -447,7 +479,9 @@
 <p> Atelier de fabrication communautaire ouvert à tous (bricoleurs, designers, artistes, étudiants, hackers, etc.) et devant respecter une charte mise en place par le <a href="https://fr.wikipedia.org/wiki/MIT" rel="external nofollow" title="Massachusetts Institute of Technology">MIT</a>. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478073)
+
 ---
 
 ## [Dépot de filament fondu, FDM, FFF, Fused Deposition Modeling, Fused Filament Fabrication, Imprimante FDM]
@@ -475,7 +509,9 @@
 </div> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478074)
+
 ---
 
 ## [Extrudeur ?, Feeder]
@@ -488,7 +524,9 @@
 <p> Système composé d’un roulement, d’une roue crantée, d’un ressort et d’un moteur pas à pas pour pousser le filament jusqu’à la buse dans les montages de type <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478059" rel="">Bowden</a>. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478076)
+
 ---
 
 ## [Filament]
@@ -498,7 +536,9 @@
 <p> Fil de plastique qui sera fondu par l’imprimante 3D pour créer un objet sur le plateau d’impression. De nombreuses matières existent (PLA, ABS, HIPS, Nylon, flexible, bois, cuivre…) et la palette de coloris est très vaste selon les fabricants. Le conditionnement se fait sous la forme de bobines de 250, 500, 750 grammes ou 1kg, voire plus. Certaines imprimantes 3D imposent d’utiliser un filament propriétaire mais la plupart des machines est compatible avec des filaments tiers, permettant ainsi de choisir des produits moins chers, par exemple. Si la majorité des imprimantes 3D utilise du filament de diamètre 1.75mm, certaines comme les Ultimaker fondent du filament de diamètre 2.85mm. Il est recommandé de conserver ses bobines de filament à l’abri de la lumière (dans un carton par exemple), éviter l’humidité et à température ambiante. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478077)
+
 ---
 
 ## [FCP, Fast Ceramic Production]
@@ -509,7 +549,9 @@
 <p> Une technologie inspirée de la stéréolithographie qui utilise la céramique comme matière première. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478078)
+
 ---
 
 ## [ALM, AM]
@@ -520,7 +562,9 @@
 <p> Méthode d’assemblage par couches. La fabrication additive s’oppose aux processus industriels de fabrication soustractive, par exemple un menuisier qui enlève de la matière à son morceau de bois pour en faire un objet fini. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478079)
+
 ---
 
 ## [FTI, Film Transfert Imaging]
@@ -531,7 +575,9 @@
 <p> Une image en 2D est affichée par un vidéoprojecteur intégré à l’imprimante 3D, un film transparent reçoit une couche de résine liquide pour une reconstitution couche par couche. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478080)
+
 ---
 
 ## [G-Code]
@@ -544,7 +590,9 @@
 <p> Il est à noter que <a href="https://reprap.org/wiki/G-code/fr" rel="external nofollow">les instructions G-codes</a> diffèrent en fonction du firmware utilisé par la machine (<a href="https://reprap.org/wiki/G-code/fr#G29:_Autolevel" rel="external nofollow">exemple</a>).<br> Pensez à bien configurer votre trancheur. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478081)
+
 ---
 
 ## [HIPS]
@@ -554,7 +602,9 @@
 <p> High Impact Polystyrene (<a href="https://fr.wikipedia.org/wiki/Polystyr%C3%A8ne_choc" rel="external nofollow" title="Polystyrène choc sur Wikipédia .fr">polystyrène choc</a> en français). </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478082)
+
 ---
 
 ## [Infill, Remplissage]
@@ -565,7 +615,9 @@
 <p> Remplissage de l’objet. Ce paramètre souvent exprimé en pourcentage définit la quantité de matière (non visible) à déposer à l’intérieur de l’objet. Cela permet de faire varier le curseur entre économie de plastique, vitesse d’impression et solidité de l’objet. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478083)
+
 ---
 
 ## [Tension secteur]
@@ -581,7 +633,9 @@
 <p> <span style="color:#bdc3c7;">Source de l'image : </span><a href="https://commons.wikimedia.org/wiki/File:World_Map_of_Mains_Voltages_and_Frequencies,_Detailed.svg" rel="external nofollow"><span style="color:#bdc3c7;">https://commons.wikimedia.org/wiki/File:World_Map_of_Mains_Voltages_and_Frequencies,_Detailed.svg</span></a> </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478084)
+
 ---
 
 ## [Machine-outil]
@@ -591,7 +645,9 @@
 <p> Équipement de production mécanique destiné à réaliser un usinage à l’aide d’un&#xa0;outil fixe, mobile ou tournant utilisé sur une pièce fixée sur un plateau fixe ou mobile. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478085)
+
 ---
 
 ## [Maker]
@@ -604,7 +660,9 @@
 <p> &#xa0; </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478086)
+
 ---
 
 ## [Maker Faire]
@@ -615,7 +673,9 @@
 <p> <br> Vous pouvez retrouver les dates de ces foires en suivant <a href="https://makerfaire.com/" rel="external nofollow">ce lien</a>. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478087)
+
 ---
 
 ## [Microsoft 3MF]
@@ -625,7 +685,9 @@
 <p> Format open source de Microsoft pour les fichiers d’impression 3D, par exemple compatible avec l’application 3D Builder livrée avec Windows 10. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478088)
+
 ---
 
 ## [MJM, MultiJet Modeling]
@@ -636,7 +698,9 @@
 <p> Développé par&#xa0;3D Systems, le modelage à jets multiples permet des impressions 3D par couches de l’ordre de 16 microns grâce à plusieurs&#xa0;buses qui projettent des gouttelettes de résine ou de cire. Cette technologie se rapproche d’une imprimante traditionnelle à jet d’encre qui dépose de fines gouttes d’encre sur le papier. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478089)
+
 ---
 
 ## [MSLA, Masked SLA]
@@ -647,7 +711,9 @@
 <p> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478112" rel="">SLA</a> avec exposition sélective de la résine grâce à un masque créé par un écran LCD. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478090)
+
 ---
 
 ## [Buse, Nozzle]
@@ -659,7 +725,9 @@
 <p> <strong><img alt="nozzle buse extrudeur" data-ratio="60.50" height="121" srcset="https://www.lesimprimantes3d.fr/wp-content/uploads/2018/10/nozzle.jpg 200w, https://www.lesimprimantes3d.fr/wp-content/uploads/2018/10/nozzle-160x97.jpg 160w, https://www.lesimprimantes3d.fr/wp-content/uploads/2018/10/nozzle-112x68.jpg 112w" width="200" src="https://www.lesimprimantes3d.fr/wp-content/uploads/2018/10/nozzle.jpg"></strong> </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478093)
+
 ---
 
 ## [Oozing]
@@ -672,7 +740,9 @@
 <p> Il existe des tests pour paramétrer les valeurs de température et de rétraction (test n°3 et 4). </p> <iframe allowfullscreen data-controller="core.front.core.autosizeiframe" data-embedauthorid="9079" data-embedcontent="" data-embedid="embed1379964643" scrolling="no" src="https://www.lesimprimantes3d.fr/forum/topic/44318-tutodeb-calibrer-son-imprimante-avec-superslicer/?do=embed" style="height:397px;max-width:502px;"></iframe> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478094)
+
 ---
 
 ## [Open Source]
@@ -682,7 +752,9 @@
 <p> Désigne&#xa0;les logiciels dont la licence respecte les critères établis par l’Open Source Initiative : libre redistribution, accès au code source et aux travaux dérivés. Ce terme est très connu des utilisateurs de Linux et des logiciels libres Firefox, LibreOffice, VLC, etc. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478095)
+
 ---
 
 ## [Overhang, Surplomb]
@@ -695,7 +767,9 @@
 <p> <img alt="2.thumb.jpg.c577c4f673adaf3812e5fcdde3bfe0a8.jpg.60d20a9ce3efb38fcf55b084392b067b.jpg" class="ipsImage ipsImage_thumbnailed" data-fileid="137659" data-ratio="133.21" width="563" src="https://www.lesimprimantes3d.fr/forum/uploads/monthly_2022_02/2.thumb.jpg.c577c4f673adaf3812e5fcdde3bfe0a8.jpg.60d20a9ce3efb38fcf55b084392b067b.jpg"></p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478096)
+
 ---
 
 ## [PC (Plastique)]
@@ -705,7 +779,9 @@
 <p> Plastique à base de&#xa0;polycarbonate offrant&#xa0;d’excellentes propriétés mécaniques et une bonne résistante thermique&#xa0;(-135&#xa0;<abbr title="degré Celsius">°C</abbr>&#xa0;et&#xa0;135&#xa0;<abbr title="degré Celsius">°C).</abbr> </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478097)
+
 ---
 
 ## [Pillowing]
@@ -715,7 +791,9 @@
 <p> Défaut d’impression qui peut apparaître sur les surfaces supérieures du&#xa0;modèle. Aussi appelés creux, trous ou cratères dans le jargon français, ils sont souvent synonyme d’un mauvais remplissage de l’objet. Ce dernier peut être dû à un <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478083" rel="">infill</a> pas assez dense ou à un manque de refroidissement de ce dernier qui fait qu’il s’affaisse. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478098)
+
 ---
 
 ## [PLA, PolyLactic Acid]
@@ -729,7 +807,9 @@
 <p> La température de fusion du PLA sur machine FDM est comprise entre 180 et 230°C. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478099)
+
 ---
 
 ## [Bed, Heatbed, Plateau]
@@ -741,7 +821,9 @@
 <p> Le plateau (ou bed) est la surface plate sur laquelle est imprimé l’objet. Standard ou chauffant, en verre ou en autre matière, chaque type de plateau a ses arguments. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478100)
+
 ---
 
 ## [Plasticine]
@@ -751,7 +833,9 @@
 <p> Composant principal de la pâte à modeler, mélange de cire et d’huile. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478102)
+
 ---
 
 ## [PVA, Polyacétate de Vinyle]
@@ -762,7 +846,9 @@
 <p> Polymère synthétique&#xa0;principalement utilisé dans la fabrication&#xa0;de colles dites “colles blanches”. Il a pour particularité d’être translucide et est utilisé en impression 3D pour sa capacité à se dissoudre dans l’eau chaude. Les&#xa0;imprimantes 3D à plusieurs têtes d’extrusion l’utilisent souvent pour la construction des supports soutenant des portes-à-faux ne nécessitant ainsi que peu de travail post-impression. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478103)
+
 ---
 
 ## [Radeau, Raft]
@@ -774,7 +860,9 @@
 <p> <a class="ipsAttachLink ipsAttachLink_image" href="https://www.lesimprimantes3d.fr/forum/uploads/monthly_2022_03/image.png.bc47d6003bedf30fb26c1c5dc19ec71c.png" data-fileid="138049" data-fileext="png" rel=""><img class="ipsImage ipsImage_thumbnailed" data-fileid="138049" data-ratio="114.25" style="width:400px;height:auto;" width="657" alt="image.thumb.png.7597fc836875abd3103db2d11a1ad15b.png" src="https://www.lesimprimantes3d.fr/forum/uploads/monthly_2022_03/image.thumb.png.7597fc836875abd3103db2d11a1ad15b.png"></a><a class="ipsAttachLink ipsAttachLink_image" href="https://www.lesimprimantes3d.fr/forum/uploads/monthly_2022_03/image.png.792c3b80fda53bb2c7116294eb2aaf69.png" data-fileid="138050" data-fileext="png" rel=""><img class="ipsImage ipsImage_thumbnailed" data-fileid="138050" data-ratio="113.75" style="width:400px;height:auto;" width="660" alt="image.thumb.png.9015836459967951f1c34a5bd8a37715.png" src="https://www.lesimprimantes3d.fr/forum/uploads/monthly_2022_03/image.thumb.png.9015836459967951f1c34a5bd8a37715.png"></a><br><br> Lorsque l'impression est terminée, ces supports doivent être enlevés.<br><br> Une des alternatives au raft est l'utilisation d'un <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/#comment-478060" rel="">Brim</a> qui nécessite un travail de post production moins important. </p> 
 <p> <br> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478104)
+
 ---
 
 ## [Shell]
@@ -784,7 +872,9 @@
 <p> Référence à la coque / coquille d’un modèle&#xa0;creux.&#xa0;Le nombre de shells représente le nombre de couches ajoutées à l’intérieur du périmètre de l’objet. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478105)
+
 ---
 
 ## [Slicer, Trancheur]
@@ -795,7 +885,9 @@
 <p> Logiciel qui « tranche » le modèle 3D en couches&#xa0;horizontales&#xa0;pour que l’imprimante 3D les imprime. Il est aussi appelé « trancheur&#xa0;» en français. C’est cette application qui va aussi définir le taux de remplissage de l’impression 3D. Par exemple, le logiciel <a href="https://www.lesimprimantes3d.fr/tag/cura/" rel="external">Cura</a> permet de slicer un fichier STL et le transformer en GCODE, format compréhensible par une imprimante3D. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478107)
+
 ---
 
 ## [Jupe, Skirt]
@@ -806,7 +898,9 @@
 <p> Ce terme désigne le(s) contour(s) de l’objet que réalise l’imprimante 3D avant l’impression pour nettoyer sa tête et amorcer un flux de plastique régulier. Cela permet aussi de détecter un éventuel problème de calibration et de stopper le travail au plus tôt. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478108)
+
 ---
 
 ## [Fusion sélective par laser, SLM, Selective Laser Melting]
@@ -818,7 +912,9 @@
 <p> Au même titre que le frittage sélectif par laser (SLS, voir définition ci-dessous), la fusion sélective par laser est une méthode de fabrication additive qui fonctionne avec un laser qui fait fondre de la poudre métallique. Cette technique a pour avantage de pouvoir travailler les métaux purs, autres que les alliages, comme le titane par exemple. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478109)
+
 ---
 
 ## [FLS, Frittage Laser Sélectif, SLS, Selective Laser Sintering]
@@ -831,7 +927,9 @@
 <p> Frittage sélectif par laser, permet de&#xa0;créer des objets 3D, couche par couche,&#xa0;avec des poudres qui sont frittées par un laser puissant. Les objets ainsi fabriqués sont fait de différents alliages. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478055" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478110)
+
 ---
 
 ## [SLA, Stéréolithographie]
@@ -842,7 +940,9 @@
 <p> Transformation de résine photosensible liquide en objet à l’aide d’un laser ultra-violet qui la durcit, couche par couche. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478055" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478112)
+
 ---
 
 ## [STL]
@@ -852,7 +952,9 @@
 <p> Type de fichier 3D le plus populaire. Les plateformes de téléchargement de fichiers 3D utilisent le format STL, type de fichier universel qui peut être ouvert dans tous les logiciels de slicer. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478114)
+
 ---
 
 ## [Cheveux d'ange, Cordage, Stringing]
@@ -864,7 +966,9 @@
 <p> Phénomène de fil indésirable plus ou moins épais qui apparaît sur le chemin de la buse entre les différents éléments d’une pièce imprimées en 3D. Cela se produit lors que la température d’extrusion est trop élevée, que la buse se déplace trop lentement et que la rétraction est trop courte. Il faut donc jouer sur ces 3 paramètres pour obtenir une impression plus propre. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478116)
+
 ---
 
 ## [Voxel]
@@ -874,7 +978,9 @@
 <p> Valeur sur une grille régulière dans un espace tridimentionnel, en résumé il s’agit d’un pixel en trois dimensions. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478117)
+
 ---
 
 ## [Décollement, Gauchissement, Warping]
@@ -886,7 +992,9 @@
 <p> Phénomène de décollement de l’objet du plateau (souvent au niveau des coins) lorsque le plastique refroidit et se rétracte, entraînant une déformation du modèle. Pour y remédier il existe différentes solutions : <a href="https://www.lesimprimantes3d.fr/test-dimafix-spray-anti-warping-20150616/" rel="external">spray Dimafix</a>, colle Hu-Hu, scotch Kapton ou Blue Tape, plateau Buildtak, plateau chauffant, <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478104" rel="">Raft</a>, <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478060" rel="">Brim</a>, etc. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478119)
+
 ---
 
 ## [Wobble]
@@ -896,7 +1004,9 @@
 <p> Phénomène d’oscillations cycliques observé sur les imprimantes 3D dont la tête d’impression n’arrive pas à se positionner correctement entre chaque couche. Cela provoque un motif oscillant ressemblant souvent à des vaguelettes&#xa0;sur l’objet imprimé selon l’axe Z. Les causes principales&#xa0;sont souvent les tiges filetées ou des&#xa0;contraintes au niveau du guidage et de la motorisation du Z. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478120)
+
 ---
 
 ## [Axe X, X axis]
@@ -908,7 +1018,9 @@
 <p> <img alt="axe-xyz.jpg" class="ipsImage" data-ratio="52.00" height="182" width="350" src="https://www.lesimprimantes3d.fr/wp-content/uploads/2018/10/axe-xyz.jpg"></p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478122)
+
 ---
 
 ## [Axe Y, Y axis]
@@ -920,7 +1032,9 @@
 <p> <img alt="axe-xyz.jpg" class="ipsImage" data-ratio="52.00" height="182" width="350" src="https://www.lesimprimantes3d.fr/wp-content/uploads/2018/10/axe-xyz.jpg"></p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478123)
+
 ---
 
 ## [Axe Z, Z axis]
@@ -932,7 +1046,9 @@
 <p> <img alt="axe-xyz.jpg" class="ipsImage" data-ratio="52.00" height="182" width="350" src="https://www.lesimprimantes3d.fr/wp-content/uploads/2018/10/axe-xyz.jpg"></p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478124)
+
 ---
 
 ## [ABS]
@@ -942,7 +1058,9 @@
 <p> Polymère thermoplastique utilisé par de nombreuses imprimantes 3D. C’est un plastique rigide offrant une bonne résistance aux chocs. Il est couramment utilisé dans les secteurs de&#xa0;l’électroménager, la téléphonie, le matériel informatique, le jouet (les briques Lego en sont l’exemple le plus connu), etc. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=478397)
+
 ---
 
 ## [Trancanage]
@@ -959,7 +1077,9 @@
 <p> <a href="https://fr.wikipedia.org/wiki/Trancanage" rel="external nofollow">https://fr.wikipedia.org/wiki/Trancanage</a> </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=483417)
+
 ---
 
 ## [Alcool isopropylique, IPA, Isopropanol]
@@ -973,7 +1093,9 @@
 <p> <a href="https://fr.wikipedia.org/wiki/Alcool_isopropylique" rel="external nofollow">https://fr.wikipedia.org/wiki/Alcool_isopropylique</a> </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=483448)
+
 ---
 
 ## [Polymérisation, UV, Ultra violets]
@@ -990,7 +1112,9 @@
 <p> La polymérisation est une réaction chimique qui conduit à la solidification de la résine qui permet ainsi la création d'une pièce imprimée. </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=484987)
+
 ---
 
 ## [Wrapping]
@@ -1006,7 +1130,9 @@
 <p> <a href="http://www.cuisinetamere.fr/recette/petit-wrap-apero/" rel="external nofollow">Source de l'image</a> </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478055" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=485840)
+
 ---
 
 ## [ATMega1280, ATMega2560, Arduino]
@@ -1025,7 +1151,9 @@
   <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478055" rel="">Retour au sommaire du glossaire</a> </p> 
  </div> 
 </div>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=489399)
+
 ---
 
 ## [Octo4a, Octopi, Octoprint]
@@ -1063,7 +1191,9 @@
 <p> <span style="font-size:14px;">Pour en savoir plus sur Octoprint<span>&#xa0;</span><span>:</span><span>&#xa0;</span><a href="https://octoprint.org/" rel="external nofollow" style="color:rgb(248,102,5);text-decoration:none;background-color:transparent;">https://octoprint.org/</a></span> </p> 
 <p> <br> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=491949)
+
 ---
 
 ## [VSCode, Visual Studio Code]
@@ -1079,7 +1209,9 @@
 <p> Pour en savoir plus :<br><a href="https://code.visualstudio.com/" rel="external nofollow">https://code.visualstudio.com/</a><br><a href="https://fr.m.wikipedia.org/wiki/Visual_Studio_Code" rel="external nofollow">https://fr.m.wikipedia.org/wiki/Visual_Studio_Code</a><br><a href="https://vscodium.com/" rel="external nofollow">https://vscodium.com/</a> </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478055" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=492562)
+
 ---
 
 ## [Excentrique, Écrou excentrique]
@@ -1123,7 +1255,9 @@
 </ul>
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478055" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=494393)
+
 ---
 
 ## [Bridge (en), Bridging (en), Pont (fr), Pontage (fr)]
@@ -1143,7 +1277,9 @@
 <p> <a href="https://www.thingiverse.com/thing:2727756" rel="external nofollow">Lien vers le STL du benchmark</a> </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=495324)
+
 ---
 
 ## []
@@ -1156,7 +1292,9 @@
  </div> 
 </blockquote> 
 <p> ( «<em><strong> Et le désir s'accroît quand l'effet se recule.</strong></em>» P. Corneille ) <span><img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" class="ipsEmoji" alt="😄"></span> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=495440)
+
 ---
 
 ## [Formatage]
@@ -1166,7 +1304,9 @@
 <p> Le formatage permet d'assigner un format à un support de stockage (support de stockage <span>: </span>disque dur, SSD, clé USB carte SD).<br> Les formats courants sont FAT32, NTFS, ext2, ext3, ext4.<br> Le format d'un support de stockage correspond au langage chez les humains.&#xa0;<br> Il faut qu'il soit adapté à celui/ceux que le machine peut lire.<br> Les imprimantes ne peuvent lire que certains formats d'où l'importance de <a href="https://www.lesimprimantes3d.fr/forum/topic/47791-tuto-comment-choisir-et-formater-sa-carte-sd-ou-sa-cl%C3%A9-usb/" rel="">bien formater sa clef USB ou sa carte SD.</a> </p> 
 <p> &#xa0; </p> 
 <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=498697)
+
 ---
 
 ## [PTFE, Tube PTFE]
@@ -1206,6 +1346,8 @@
  <p> &#xa0; </p> 
  <p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/?do=findComment&amp;comment=478055" rel="">Retour au sommaire du glossaire</a> </p> 
 </div>
+
 [lien vers source](https://www.lesimprimantes3d.fr/forum/topic/45754-x/?do=findComment&comment=503473)
+
 ---
 
