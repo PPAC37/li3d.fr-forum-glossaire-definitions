@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+ <head>
+  <title>comment-491949 - [Octo4a, Octopi, Octoprint]</title>
+ </head>
+ <body>
+<!-- BRUT comment-491949 DEBUT -->
+<ul>
+ <li> <span style="font-size:14px;"><strong>Octoprint</strong></span> </li> 
+ <li> <span style="font-size:14px;"><strong>Octopi</strong></span> </li> 
+ <li> <span style="font-size:14px;"><strong>Octo4a</strong></span><br> &#xa0; </li> 
+</ul>
+<p> Octoprint est un logiciel open source qui permet le contrôle, la surveillance du fonctionnement d’une imprimante 3D ainsi que la gestion des tâches d’impression depuis un navigateur web. </p> 
+<p> Il doit être installé sur un ordinateur/mini ordinateur/téléphone connecté à l'imprimante.<br> Généralement il est installé sur un Raspberry Pi (en ces temps de pénurie de ce matériel, d'autres cartes peuvent convenir (exemple avec un <a href="https://www.lesimprimantes3d.fr/forum/topic/47393-une-alternative-au-raspberry-pi-pour-octoprint/" rel="">Orange PI Zero 2</a>)) </p> 
+<p> &#xa0; </p> 
+<p> Son installation peut se faire de plusieurs manières différentes. </p> 
+<p> Voici 3 méthodes habituellement utilisées </p> 
+<ol>
+ <li> En installant la distribution Octopi<br><strong>Octopi</strong> est une image système incluant le système d'exploitation (Raspberry PI OS), Octoprint, Mjpeg-streamer, HAproxy et bien d'autres logiciels.<br> Tout étant installé, la mise en œuvre est facilitée en évitant de multiples installations «manuelles» parfois sources de problèmes.<br><span><a href="https://www.lesimprimantes3d.fr/forum/topic/4825-tuto-installer-octoprint-par-octopi/" rel="">Lien vers le tuto n°1 pour installer Octopi</a><br><a href="https://www.lesimprimantes3d.fr/forum/topic/45289-tuto-comment-installer-octoprint-sur-son-imprimante/" rel="">Lien vers le tuto n°2 pour installer Octopi</a></span><br> &#xa0; </li> 
+ <li> En installant l'application <a href="https://github.com/feelfreelinux/octo4a" rel="external nofollow">Octo4a</a><br><strong>Octo4a</strong>&#xa0; est une application qui permet de faire tourner Octoprint sur un simple téléphone capable de gérer le transfert de données et la charge du téléphone en même temps via la fonction OTG<br><a href="https://www.lesimprimantes3d.fr/forum/topic/44897-octo4a-octoprint-sur-un-smartphone-recycl%C3%A9/" rel="">Un sujet sur Octo4a est ouvert ici</a><br> &#xa0; </li> 
+ <li> En l'installant sur un système d'exploitation déjà en place.<br><a href="https://www.lesimprimantes3d.fr/forum/topic/4536-tuto-installer-octoprint-sur-une-raspbian/" rel="">Lien vers un tuto d'installation d'Octoprint</a> sur une distribution Debian, qui n'est plus à jour, mais la méthode reste similaire. </li> 
+</ol>
+<p> &#xa0; </p> 
+<p> Quelques explications de<span>&#xa0;</span><a contenteditable="false" data-ipshover="" data-ipshover-target="https://www.lesimprimantes3d.fr/forum/profile/3421-fran6p/?do=hovercard" data-mentionid="3421" href="https://www.lesimprimantes3d.fr/forum/profile/3421-fran6p/" rel="" style="color:rgb(248,102,5);text-decoration:none;padding:0.1em 0.8em;font-size:12.6px;">@fran6p</a><span>&#xa0;</span>sur des méthodes alternatives d'installation. </p> 
+<p> &#xa0; </p> 
+<blockquote class="ipsQuote" data-ipsquote=""> 
+ <div class="ipsQuote_citation">
+   Citation 
+ </div> 
+ <div class="ipsQuote_contents"> 
+  <p> On peut également depuis quelques versions du<span>&#xa0;</span><a href="https://www.raspberrypi.org/downloads.../" rel="external nofollow" style="color:rgb(248,102,5);text-decoration:none;background-color:transparent;">logiciel de la fondation Raspberry P</a>i, installer directement l'image Octopi sans passer par un téléchargement préalable: </p> 
+  <p style="text-align:center;"> <img alt="rpi-imager_choix-OS.jpg.9d4ed0a938ed2e7619c0ffd06dc84a11.jpg" class="ipsImage ipsImage_thumbnailed" data-fileid="138054" data-ratio="66.40" style="width:250px;height:auto;" width="682" src="https://www.lesimprimantes3d.fr/forum/uploads/monthly_2022_03/rpi-imager_choix-OS.jpg.9d4ed0a938ed2e7619c0ffd06dc84a11.jpg"><img alt="rpi-imager_Octopiv18.jpg.bf4def8b690e149e8450a26e209b68ba.jpg" class="ipsImage ipsImage_thumbnailed" data-fileid="138055" data-ratio="61.60" style="width:250px;height:auto;" width="680" src="https://www.lesimprimantes3d.fr/forum/uploads/monthly_2022_03/rpi-imager_Octopiv18.jpg.bf4def8b690e149e8450a26e209b68ba.jpg"><img alt="rpi-imager_autre-OS.jpg.3f5451a10636c5e5fc90945fd581bf5c.jpg" class="ipsImage ipsImage_thumbnailed" data-fileid="138056" data-ratio="61.60" style="width:250px;height:auto;" width="680" src="https://www.lesimprimantes3d.fr/forum/uploads/monthly_2022_03/rpi-imager_autre-OS.jpg.3f5451a10636c5e5fc90945fd581bf5c.jpg"></p> 
+  <p> Via l'installation avec RaspberryPi Imager, il est également possible de paramétrer le Wifi, le MDP de pi, … =&gt; une fois l'image flashée il n'y a plus qu'à compléter l'assistant de démarrage au premier lancement d'Octoprint<span>&#xa0;</span><span><img src="https://twemoji.maxcdn.com/2/72x72/1f604.png" class="ipsEmoji" alt="😄"><strong style="font-weight:bolder;">C'est la méthode d'installation que je recommanderai.</strong></span> </p> 
+  <p> Un moyen alternatif, très en vogue, est d'utiliser Docker pour installer une instance Octoprint (c'est un poil plus «barbu» / geek). Tous les moyens d'installer Octoprint sont décrits sur<span>&#xa0;</span><a href="https://octoprint.org/download/" rel="external nofollow" style="color:rgb(248,102,5);text-decoration:none;background-color:transparent;">cette page</a>. </p> 
+  <p> Un dernier moyen d'installer Octoprint, non recensé sur la page précédente, serait de passer par le script<span>&#xa0;</span><a href="https://github.com/th33xitus/KIAUH" rel="external nofollow" style="color:rgb(248,102,5);text-decoration:none;background-color:transparent;">kiauh</a><span>&#xa0;</span>(en gros, installer une image Rasbian (raspberryOS) lite, installer le logiciel git, cloner le projet kiauh, lancer l'installation d'Octoprint via les options du menu). </p> 
+ </div> 
+</blockquote> 
+<p> &#xa0; </p> 
+<p> <span style="font-size:14px;">Pour en savoir plus sur Octoprint<span>&#xa0;</span><span>:</span><span>&#xa0;</span><a href="https://octoprint.org/" rel="external nofollow" style="color:rgb(248,102,5);text-decoration:none;background-color:transparent;">https://octoprint.org/</a></span> </p> 
+<p> <br> &#xa0; </p> 
+<p style="text-align:center;"> <a href="https://www.lesimprimantes3d.fr/forum/topic/45754-glossaire-de-limpression-3d/" rel="">Retour au sommaire du glossaire</a> </p><!-- BRUT comment-491949 FIN -->
+ </body>
+</html>
