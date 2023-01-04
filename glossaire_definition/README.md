@@ -1,7 +1,8 @@
-# ? Sommaire du glossaire
+# ? Sommaire du glossaire (local a se dépot)
 
 TODO dans l'idée ici un sommaire généré via une Action git sur ce dépot github ...
 
+# Sommaire (liens vers définitions du sujet glossaire du forum)
 
 Dans ce glossaire de l'impression 3D, vous trouverez des définitions qui se veulent simples et compréhensibles des mots techniques, liés à l'impression 3D FDM et à l’impression 3D résine, utilisés par les membres du forum ainsi que sur le blog du site
 
