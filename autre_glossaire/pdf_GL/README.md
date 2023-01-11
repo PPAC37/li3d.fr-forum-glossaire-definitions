@@ -3,7 +3,7 @@
 <!--
 pdf.src.url: 
 pdf.src.datetime: 
-pdf.file: /home/q6/github/li3d.fr-forum-glossaire-definitions/autre_glossaire/Nom des pièeces - Impression 3D.pdf
+pdf.file: /home/q6/github/li3d.fr-forum-glossaire-definitions/autre_glossaire/pdf_GL/pdf.orig/Nom des pièeces - Impression 3D.pdf
 pdf.file.length: 955679
 pdf.file.md5sum: 
 pdf.DocumentId: null
@@ -30,19 +30,6 @@ img.save.file: ./out/pdf_GL/img/-ImgNum-0-PageNum-0.png
 img.save.file.length: 35050
 -->
 
-<!--
-img.getSuffix: jpg
-img.getHeight: 321
-img.getWidth: 341
-img.getInterpolate: true
-img.getCOSObject.getLength: 8637
--->
-![jpg-321x341](img/-ImgNum-1-PageNum-0.jpg)
-<!--
-img.save.file: ./out/pdf_GL/img/-ImgNum-1-PageNum-0.jpg
-img.save.file.length: 8645
--->
-
 
 
 
@@ -59,26 +46,43 @@ img.save.file.length: 8645
 
 www.youtube.com/Legueroloco 
  
-
+---
  
 
-Image Noms français Noms anglais Description sommaire 
+Image 
 
+Noms français 
+
+Noms anglais 
+
+Description sommaire 
+
+---
+
+<!--
+img.getSuffix: jpg
+img.getHeight: 321
+img.getWidth: 341
+img.getInterpolate: true
+img.getCOSObject.getLength: 8637
+-->
+![jpg-321x341](img/-ImgNum-1-PageNum-0.jpg)
+<!--
+img.save.file: ./out/pdf_GL/img/-ImgNum-1-PageNum-0.jpg
+img.save.file.length: 8645
+-->
  
 
-Impression 3D 
-Fabrication additive par dépôt de 
-filament 
-Dépôt de file en fusion 
- 
+* Impression 3D
+* Fabrication additive par dépôt de filament
+* Dépôt de file en fusion
 
-3D Print 
-Fuse deposit modeling (FDM) 
+* 3D Print
+* Fuse deposit modeling (FDM)
 
-Impression 3D à filament – Le 
-plus commun 
+Impression 3D à filament – Le plus commun 
 
-
+---
 
 ## page 2
 
@@ -95,6 +99,37 @@ img.save.file: ./out/pdf_GL/img/-ImgNum-2-PageNum-1.jpg
 img.save.file.length: 9796
 -->
 
+
+
+
+ 
+
+* Stéréolithographie (SLA) 
+* Impression 3D à la résine 
+* Impression 3D aux UV 
+* Impression DLP 
+* Impression 3D au laser 
+* Impression 3D à la résine
+
+* Stereolithography (SLA) 
+* Resin printing 
+* UV 3D printing 
+* Digital light processing (DLP) 
+* Laser 3D printing 
+* Resin 3D printing
+
+Impression à la résine, le plus 
+commun, basé sur un écran LCD 
+servant de gabarit et une lumière 
+UV le traversant. 
+D’autre, utilisent un laser redirigé 
+par un miroir faisant durcir la 
+résine. 
+
+---
+
+
+
 <!--
 img.getSuffix: jpg
 img.getHeight: 464
@@ -106,7 +141,22 @@ img.getCOSObject.getLength: 31573
 <!--
 img.save.file: ./out/pdf_GL/img/-ImgNum-3-PageNum-1.jpg
 img.save.file.length: 31519
--->
+--> 
+
+* Imprimante 3D cartésienne
+
+* Cartesian 3D  printer
+
+Imprimante 3D à filament le plus 
+populaire. 
+La plateforme d’impression se 
+déplace avant/arrière pour le 
+mouvement du Y, et l’axe des X 
+se monte et descend pour le 
+mouvement du Z. 
+
+---
+
 
 <!--
 img.getSuffix: jpg
@@ -119,7 +169,21 @@ img.getCOSObject.getLength: 25762
 <!--
 img.save.file: ./out/pdf_GL/img/-ImgNum-4-PageNum-1.jpg
 img.save.file.length: 25615
--->
+--> 
+
+* Imprimante 3D Delta
+
+* Delta 3D printer
+
+Imprimante 3D à filament réputé 
+pour sa vitesse, mais aussi sa 
+complexité de calibrage. 
+La X/Y et Z sont couver par un 
+mouvement simultané des 3 
+axes. 
+
+---
+
 
 <!--
 img.getSuffix: jpg
@@ -134,57 +198,13 @@ img.save.file: ./out/pdf_GL/img/-ImgNum-5-PageNum-1.jpg
 img.save.file.length: 22642
 -->
 
-
-
-
-
  
 
-Stéréolithographie (SLA) 
-Impression 3D à la résine 
-Impression 3D aux UV 
-Impression DLP 
-Impression 3D au laser 
-Impression 3D à la résine 
- 
+* Imprimante Core XY
 
-Stereolithography (SLA) 
-Resin printing 
-UV 3D printing 
-Digital light processing (DLP) 
-Laser 3D printing 
-Resin 3D printing 
+* Core XY
 
-Impression à la résine, le plus 
-commun, basé sur un écran LCD 
-servant de gabarit et une lumière 
-UV le traversant. 
-D’autre, utilisent un laser redirigé 
-par un miroir faisant durcir la 
-résine. 
-
- 
-
-Imprimante 3D cartésienne Cartesian 3D  printer Imprimante 3D à filament le plus 
-populaire. 
-La plateforme d’impression se 
-déplace avant/arrière pour le 
-mouvement du Y, et l’axe des X 
-se monte et descend pour le 
-mouvement du Z. 
-
- 
-
-Imprimante 3D Delta Delta 3D printer Imprimante 3D à filament réputé 
-pour sa vitesse, mais aussi sa 
-complexité de calibrage. 
-La X/Y et Z sont couver par un 
-mouvement simultané des 3 
-axes. 
-
- 
-
-Imprimante Core XY Core XY Imprimante plus stable que les 
+Imprimante plus stable que les 
 cartésienne, avec une système de 
 courroie souvent plus complexe. 
 Le X/Y sont à la tête de 
@@ -192,9 +212,11 @@ l’imprimante, et la plateforme se
 déplace de haut en bas pour le 
 mouvement du Z. 
 
-
+---
 
 ## page 3
+
+---
 
 <!--
 img.getSuffix: jpg
@@ -209,6 +231,22 @@ img.save.file: ./out/pdf_GL/img/-ImgNum-6-PageNum-2.jpg
 img.save.file.length: 5777
 -->
 
+
+
+
+ 
+
+* Châssis
+
+* Frame
+
+Châssis de l’imprimante, 
+normalement fais d’extrusion 
+d’aluminium 2020, 4020 ou 4040. 
+
+---
+
+
 <!--
 img.getSuffix: jpg
 img.getHeight: 384
@@ -220,7 +258,22 @@ img.getCOSObject.getLength: 10215
 <!--
 img.save.file: ./out/pdf_GL/img/-ImgNum-7-PageNum-2.jpg
 img.save.file.length: 10238
--->
+--> 
+
+* Extrusion d’aluminium 
+* Profile d’aluminum
+
+* Aliminum profil 
+* Aluminium extrusion
+
+On les identifie normalement par 
+leur dimension en mm 
+Ex : 4020 représente 40mm X 
+20mm 
+
+---
+
+
 
 <!--
 img.getSuffix: jpg
@@ -234,6 +287,21 @@ img.getCOSObject.getLength: 14383
 img.save.file: ./out/pdf_GL/img/-ImgNum-8-PageNum-2.jpg
 img.save.file.length: 14371
 -->
+ 
+
+Courroies 
+Bandes 
+
+Belt 
+
+Normalement, les model GT2-
+6mm sont utilisés dans la plupart 
+des imprimantes du marché.  Il y 
+à aussi du GT2-10 et d’autre 
+types disponibles 
+
+---
+
 
 <!--
 img.getSuffix: jpg
@@ -247,6 +315,19 @@ img.getCOSObject.getLength: 10605
 img.save.file: ./out/pdf_GL/img/-ImgNum-9-PageNum-2.jpg
 img.save.file.length: 10592
 -->
+ 
+
+Tensioneur 
+ 
+
+Tensioner 
+ 
+
+Permettant d’ajuster la tension 
+des courroies 
+
+---
+
 
 <!--
 img.getSuffix: jpg
@@ -261,57 +342,16 @@ img.save.file: ./out/pdf_GL/img/-ImgNum-10-PageNum-2.jpg
 img.save.file.length: 13143
 -->
 
-
-
-
-
  
 
-Châssis Frame Châssis de l’imprimante, 
-normalement fais d’extrusion 
-d’aluminium 2020, 4020 ou 4040. 
+Ressort de courroie 
 
- 
+Tensioning spring 
 
-Extrusion d’aluminium 
-Profile d’aluminum 
-
-Aliminum profil 
-Aluminium extrusion 
-
-On les identifie normalement par 
-leur dimension en mm 
-Ex : 4020 représente 40mm X 
-20mm 
-
- 
-
-Courroies 
-Bandes 
-
-Belt Normalement, les model GT2-
-6mm sont utilisés dans la plupart 
-des imprimantes du marché.  Il y 
-à aussi du GT2-10 et d’autre 
-types disponibles 
-
- 
-
-Tensioneur 
- 
-
-Tensioner 
- 
-
-Permettant d’ajuster la tension 
-des courroies 
-
- 
-
-Ressort de courroie Tensioning spring Permettant d’augmenter la 
+Permettant d’augmenter la 
 tension sur les courroies 
 
-
+---
 
 ## page 4
 
